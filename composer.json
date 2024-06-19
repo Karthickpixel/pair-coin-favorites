@@ -1,0 +1,12 @@
+{
+    "name": "user-to-admin/favorites",
+    "description": "This is Package of favorites coins",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "UserToAdmin\\Favorites\\": "src/"
+        }
+    },
+    "require": {}
+}
